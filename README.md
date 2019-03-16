@@ -1,4 +1,4 @@
-# NyTimes
+# Application
 Demonstrating the New York Times - most popular api
 
 *Download and Import the project in Android Studio
