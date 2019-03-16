@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+    <color name="green">#FFFFFF</color>
+
+    <color name="enabled_color">#333333</color>
+    <color name="disabled_color">#000000</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#ffff</color>
+    <color name="gray">#A5A5A5</color>
+    <color name="gridBackground">#ECF2FE</color>
+
+    <color name="bordercolor">#F7405F</color>
+    <color name="color_log_in">#94019c8f</color>
+    <color name="color_sign_up">#93303f9f</color>
+    <color name="bgBackSideColor">#0000</color>
+
+    <color name="red_500">#F44336</color>
+    <color name="red_200">#EF9A9A</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="orange_500">#FF9800</color>
+    <color name="orange_200">#FFCC80</color>
+    <color name="brown_500">#795548</color>
+    <color name="brown_200">#BCAAA4</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_200">#EEEEEE</color>
+
+
+
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+    <color name="color_logo_log_in">#b4faf5</color>
+    <color name="color_logo_sign_up">#bbc4fd</color>
+    <color name="agray">#737373</color>
+
+    <color name="color_label">#ededed</color>
+    <color name="white_transparent">#fafafa</color>
+
+    <color name="color_input_hint">#C3D3EE</color>
+    <color name="color_text_highlight">#fafafa</color>
+    <color name="color_text">#FFF</color>
+
+    <color name="bg_row_background">#fa315b</color>
+    <color name="item_name">#535353</color>
+    <color name="description">#a9a9a9</color>
+
+    <color name="placeholder_bg">#dddddd</color>
+
+    <color name="chef">#777</color>
+    <color name="timestamp">#777</color>
+
+
+    <color name="colorPrimary">#333C46</color>
+    <color name="colorPrimaryDark">#333C46</color>
+    <color name="colorAccent">#FFCE511C</color>
+    <color name="colorBackground">#333C46</color>
+    <color name="colorSplashText">#F0F0F0</color>
+    <color name="colorProgressBar">#FFCE511C</color>
+    <color name="colorTextView">#83898E</color>
+</resources>
+

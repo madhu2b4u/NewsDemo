@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Newyork Times</string>
+    <string name="loading_please_wait">Loading please wait</string>
+    <string name="ok">OK</string>
+    <string name="abstracts">Abstract:</string>
+    <string name="section">Section:</string>
+    <string name="source">Source:</string>
+    <string name="published">Published by:</string>
+    <string name="views">Views</string>
+    <string name="Are_you_sure_do_you_want_to_exit">Are you sure do you want to exit?</string>
+</resources>
